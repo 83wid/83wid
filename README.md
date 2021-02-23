@@ -15,9 +15,9 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=nabouzah)](https://github.com/83wid)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nabouzah&theme=merko)](https://github.com/83wid)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nabouzah&theme=merko)](https://github.com/83wid)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabouzah&layout=demo&theme=merko)](https://github.com/83wid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabouzah&layout=demo&theme=merko)](https://github.com/83wid)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
