@@ -17,7 +17,7 @@
   <img alt="css3" src="https://img.shields.io/badge/css-yellow?style=flat-square&logo=css3&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="docker" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="docker" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=nabouzah)](https://github.com/83wid)
