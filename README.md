@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 Nice to see you.</h1>
-<p>Welcome to my page! </br> My name is Nawfal, Co-Founder of Enigma Leet and 👨🏽‍💻 I’m currently studying at  1337 Coding school
+<p>Welcome to my page! </br> My name is Nawfal, 👨🏽‍💻 I’m currently studying at  1337 Coding school
 
 <h3>Things I code with</h3>
 <p>
@@ -27,7 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&theme=merko)](https://github.com/83wid)
 
-- 🔭 Co-Founder of [Enigma Leet]
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/83wid?style=social)](https://twitter.com/83wid)
