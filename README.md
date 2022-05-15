@@ -23,7 +23,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=83wid&show_icons=true)](https://github.com/83wid)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&theme=merko)](https://github.com/83wid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&show_icons=true)](https://github.com/83wid)
 
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 
