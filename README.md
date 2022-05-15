@@ -20,9 +20,6 @@
   <img alt="docker" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="unix/linux" src="https://img.shields.io/badge/unix/linux-orange?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
-
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=nabouzah)](https://github.com/83wid)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=83wid&theme=merko)](https://github.com/83wid)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&theme=merko)](https://github.com/83wid)
