@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm [NAWFAL](https://www.linkedin.com/in/nawfalabouzaher/) (24) ! :sunglasses:
+# I'm [NAWFAL](https://www.linkedin.com/in/nawfalabouzaher/) (24) ! :sunglasses:
 
-<p>Welcome to my page! </br> My name is Nawfal, 👨🏽‍💻 I’m currently studying at  1337 Coding school
+# I’m currently studying at  1337 Coding school
 
 I like to do project that has relation to anime. :ghost:
 
