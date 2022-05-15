@@ -1,5 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 Nice to see you.</h1>
+### Hi there 👋
+
+I'm [NAWFAL](https://www.linkedin.com/in/nawfalabouzaher/) (24) ! :sunglasses:
+
 <p>Welcome to my page! </br> My name is Nawfal, 👨🏽‍💻 I’m currently studying at  1337 Coding school
+
+I like to do project that has relation to anime. :ghost:
 
 <h3>Things I code with</h3>
 <p>
