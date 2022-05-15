@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-# I'm [NAWFAL](https://www.linkedin.com/in/nawfalabouzaher/) (24) ! :sunglasses:
+## I'm [NAWFAL](https://www.linkedin.com/in/nawfalabouzaher/) (24) ! :sunglasses:
 
-# I’m currently studying at  1337 Coding school
+## I’m currently studying at  1337 Coding school
 
-I like to do project that has relation to anime. :ghost:
+# I like to do project that has relation to anime. :ghost:
 
-<h3>Things I code with</h3>
+# Things I code with
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Cpp" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
