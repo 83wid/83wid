@@ -4,7 +4,7 @@
 
 ## I'm Software Engineering Student
 
-## I’m currently studying at  1337 Coding school
+## 👨🏽‍💻 I’m currently studying at  [1337 Coding school](https://1337.ma)
 
 ### I like to do project that has relation to anime. :ghost:
 
@@ -31,8 +31,6 @@
 [![83wid's github stats](https://github-readme-stats.vercel.app/api?username=83wid&show_icons=true)](https://github.com/83wid)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&show_icons=true)](https://github.com/83wid)
-
-- 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 
 [![Twitter: 83wid](https://img.shields.io/twitter/follow/83wid?style=social)](https://twitter.com/83wid)
 [![GitHub 83wid](https://img.shields.io/github/followers/83wid?style=social)](https://github.com/83wid)
