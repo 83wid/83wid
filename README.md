@@ -2,6 +2,8 @@
 
 ## I'm [NAWFAL](https://www.linkedin.com/in/nawfalabouzaher/) (24) ! :sunglasses:
 
+## I'm Software Engineering Student
+
 ## I’m currently studying at  1337 Coding school
 
 ### I like to do project that has relation to anime. :ghost:
