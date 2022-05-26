@@ -30,7 +30,9 @@
 
 [![83wid's github stats](https://github-readme-stats.vercel.app/api?username=83wid&show_icons=true)](https://github.com/83wid)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&show_icons=true)](https://github.com/83wid)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&show_icons=true)](https://github.com/83wid) -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=83wid&theme=dracula"/>
+
 
 [![Twitter: 83wid](https://img.shields.io/twitter/follow/83wid?style=social)](https://twitter.com/83wid)
 [![GitHub 83wid](https://img.shields.io/github/followers/83wid?style=social)](https://github.com/83wid)
