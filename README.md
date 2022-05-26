@@ -36,6 +36,6 @@
 
 [![Twitter: 83wid](https://img.shields.io/twitter/follow/83wid?style=social)](https://twitter.com/83wid)
 [![GitHub 83wid](https://img.shields.io/github/followers/83wid?style=social)](https://github.com/83wid)
-[![Linkedin: nawfal.abouzaher](https://img.shields.io/badge/-nabouzah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawfal-abouzaher/)](https://www.linkedin.com/in/nawfal-abouzaher/)
+[![Linkedin: nawfalabouzaher](https://img.shields.io/badge/-nabouzah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawfal-abouzaher/)](https://www.linkedin.com/in/nawfalabouzaher/)
 
 
