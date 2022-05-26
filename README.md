@@ -28,7 +28,7 @@
   <img alt="unix/linux" src="https://img.shields.io/badge/unix/linux-orange?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-[![83wid's github stats](https://github-readme-stats.vercel.app/api?username=83wid&show_icons=true)](https://github.com/83wid)
+<!-- [![83wid's github stats](https://github-readme-stats.vercel.app/api?username=83wid&show_icons=true)](https://github.com/83wid) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&show_icons=true)](https://github.com/83wid)
 
