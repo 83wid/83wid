@@ -25,11 +25,24 @@
 ![docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Unix/Linux](https://img.shields.io/badge/unix/linux-orange?style=for-the-badge&logo=linux&logoColor=white)
 
-[![83wid's github stats](https://github-readme-stats.vercel.app/api?username=83wid&show_icons=true&theme=dracula)](https://github.com/83wid)
-
+<a href="https://github.com/83wid?tab=repositories" target="_blank">
+  <img  height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=83wid&theme=github_dark"/>
+</a>
+<br>
+<a href="https://github.com/83wid?tab=repositories" target="_blank">
+  <img  height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=83wid&theme=github_dark"/>
+</a>
+<a href="https://github.com/83wid?tab=repositories" target="_blank">
+  <img  height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=83wid&theme=github_dark&utcOffset=8"/>
+</a>
+<br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=83wid&layout=demo&show_icons=true)](https://github.com/83wid) -->
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=83wid&theme=dracula"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=83wid&theme=dracula"/>
+<a href="https://github.com/83wid?tab=repositories" target="_blank">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=83wid&theme=github_dark"/>
+</a>
+<a href="https://github.com/83wid?tab=repositories" target="_blank">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=83wid&theme=github_dark"/>
+</a>
 
 
 [![Twitter: 83wid](https://img.shields.io/twitter/follow/83wid?style=social)](https://twitter.com/83wid)
