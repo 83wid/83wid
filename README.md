@@ -8,8 +8,9 @@
 
 ### I like to do project that has relation to anime. :ghost:
 
-### Things I code with
-
+<details>
+ <summary><h3>Things I code with<h3></summary>
+   
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -24,7 +25,9 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-%23007ACC?style=flat-square&logo=mysql)
 ![docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Unix/Linux](https://img.shields.io/badge/unix/linux-orange?style=for-the-badge&logo=linux&logoColor=white)
-
+</details>
+<details>
+ <summary><h3>My Github Stats<h3></summary>
 <a href="https://github.com/83wid?tab=repositories" target="_blank">
   <img  height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=83wid&theme=github_dark"/>
 </a>
@@ -43,7 +46,7 @@
 <a href="https://github.com/83wid?tab=repositories" target="_blank">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=83wid&theme=github_dark"/>
 </a>
-
+</details>
 
 [![Twitter: 83wid](https://img.shields.io/twitter/follow/83wid?style=social)](https://twitter.com/83wid)
 [![GitHub 83wid](https://img.shields.io/github/followers/83wid?style=social)](https://github.com/83wid)
