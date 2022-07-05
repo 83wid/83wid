@@ -52,5 +52,8 @@
 [![GitHub 83wid](https://img.shields.io/github/followers/83wid?style=social)](https://github.com/83wid)
 [![Linkedin: nawfalabouzaher](https://img.shields.io/badge/-nabouzah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawfalabouzaher/)](https://www.linkedin.com/in/nawfalabouzaher/)
 
+<details>
 
-👨🏽‍💻 [My Porfolio: In progress...](https://github.com/83wid)
+<summary>👨🏽‍💻 My Porfolio: In progress...</summary>
+<a href="https://portfolio-pi-gilt-96.vercel.app/">have a look</a>
+</details>
