@@ -27,7 +27,7 @@
 ![Unix/Linux](https://img.shields.io/badge/unix/linux-orange?style=for-the-badge&logo=linux&logoColor=white)
   
 <details>
- <summary><h3>My Github Stats<h3></summary>
+ <summary><h3>MY GITHUB STATS<h3></summary>
 <a href="https://github.com/83wid?tab=repositories" target="_blank">
   <img  height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=83wid&theme=github_dark"/>
 </a>
@@ -53,8 +53,7 @@
 [![Linkedin: nawfalabouzaher](https://img.shields.io/badge/-nabouzah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nawfalabouzaher/)](https://www.linkedin.com/in/nawfalabouzaher/)
 
 <details>
-
-<summary>👨🏽‍💻 My Porfolio: In progress...</summary>
+<summary>👨🏽‍💻 MY PORFOLIO: IN PROGRESS...</summary>
 <a href="https://portfolio-pi-gilt-96.vercel.app/">have a look</a>
 </details>
 </div>
