@@ -54,6 +54,6 @@
 
 <details>
 <summary>👨🏽‍💻 MY PORFOLIO: IN PROGRESS...</summary>
-<a href="https://portfolio-pi-gilt-96.vercel.app/">have a look</a>
+<a href="https://abouzaher.me/">have a look</a>
 </details>
 </div>
