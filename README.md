@@ -19,7 +19,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![PHP](https://img.shields.io/badge/-Php-%23007ACC?style=flat-square&logo=php)
 ![NJs](https://img.shields.io/badge/-Node-%23007ACC?style=flat-square&logo=nodejs)
 ![](https://img.shields.io/badge/-C-%23007ACC?style=flat-square&logo=c)
 ![Mysql](https://img.shields.io/badge/-Mysql-%23007ACC?style=flat-square&logo=mysql)
