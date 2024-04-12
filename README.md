@@ -53,6 +53,6 @@
 
 <details>
 <summary>👨🏽‍💻 MY PORFOLIO: IN PROGRESS...</summary>
-<a href="https://portfolio-v2-git-main-83wid.vercel.app/">have a look</a>
+<a href="https://portfolio-v2-f3qlaqqjq-83wids-projects.vercel.app">have a look</a>
 </details>
 </div>
