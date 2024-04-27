@@ -1,16 +1,19 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/nawfalabouzaher/"><h1>HI I'M NAWFAL :wave:</h1></a>
+ 
+<img style="width: 100%;" src="https://free4kwallpapers.com/uploads/originals/2020/10/19/minimal-dark-coding-wallpaper.png"/>
 
-<img  width="100%" src="https://free4kwallpapers.com/uploads/originals/2020/10/19/minimal-dark-coding-wallpaper.png"/>
+### I'M A SOFTWARE ENGINEER
 
-### I'M A SOFTWARE ENGINEERING STUDENT
+### 👨🏽‍💻 I’M ALUMNI [1337 CODING SCHOOL](https://1337.ma)
 
-### 👨🏽‍💻 I’M CURRENTLY STUDYING AT  [1337 CODING SCHOOL](https://1337.ma)
+<img style="width: 25%" src="https://images.credly.com/images/31d39e2e-4cc4-48c5-84bd-7a4649bbefcb/image.png"/>
 
-[ONE PIECE](https://www.youtube.com/watch?v=xylh_sJAYdc) IS MORE THAN JUST AN ANIME. :ghost:
+[ONE PIECE](https://youtu.be/KUSuNNZ3tlQ?si=L4V0wigLpSwN41aB) IS MORE THAN JUST AN ANIME. :ghost:
 
- <summary><h3>I CODE WITH<h3></summary>
-   
+<details>
+<summary><h3>I CODE WITH<h3></summary>
+ 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -24,7 +27,8 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-%23007ACC?style=flat-square&logo=mysql)
 ![docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![Unix/Linux](https://img.shields.io/badge/unix/linux-orange?style=for-the-badge&logo=linux&logoColor=white)
-  
+</details>
+
 <details>
  <summary><h3>MY GITHUB STATS<h3></summary>
 <a href="https://github.com/83wid?tab=repositories" target="_blank">
