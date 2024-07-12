@@ -5,7 +5,6 @@
 <img style="width: 100%;" src="https://free4kwallpapers.com/uploads/originals/2020/10/19/minimal-dark-coding-wallpaper.png"/>
 
 ### I'M A MOBILE ENGINEER
-
 ### 👨🏽‍💻 I’M ALUMNI [1337 CODING SCHOOL](https://1337.ma)
 
 <img style="width: 25%" src="https://images.credly.com/images/31d39e2e-4cc4-48c5-84bd-7a4649bbefcb/image.png"/>
